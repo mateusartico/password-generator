@@ -31,7 +31,7 @@ Contributions to this project are welcomed and appreciated! Whether it's improvi
 
 ## License
 
-This project is licensed under the MIT License, allowing for open collaboration and distribution. You are free to use, modify, and distribute this Password Generator with Pygame GUI according to the terms of the license agreement.
+This project is licensed under the [MIT License](https://github.com/mateusartico/password-generator/blob/main/LICENSE), allowing for open collaboration and distribution. You are free to use, modify, and distribute this Password Generator with Pygame GUI according to the terms of the license agreement.
 
 ## Disclaimer
 
